@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Record>
+		<Name>Patch Kit/8 Patches</Name>
+		<Quantity>180</Quantity>
+		<Price>0.86</Price>
+	</Record>
+	<Record>
+		<Name>Road Tire Tube</Name>
+		<Quantity>505</Quantity>
+		<Price>1.49</Price>
+	</Record>
+	<Record>
+		<Name>Water Bottle - 30 oz.</Name>
+		<Quantity>252</Quantity>
+		<Price>1.87</Price>
+	</Record>
+	<Record>
+		<Name>Mountain Tire Tube</Name>
+		<Quantity>529</Quantity>
+		<Price>1.87</Price>
+	</Record>
+	<Record>
+		<Name>Touring Tire Tube</Name>
+		<Quantity>502</Quantity>
+		<Price>1.87</Price>
+	</Record>
+	<Record>
+		<Name>Bike Wash - Dissolver</Name>
+		<Quantity>36</Quantity>
+		<Price>2.97</Price>
+	</Record>
+	<Record>
+		<Name>Road Bottle Cage</Name>
+		<Quantity>324</Quantity>
+		<Price>3.36</Price>
+	</Record>
+	<Record>
+		<Name>Racing Socks, M</Name>
+		<Quantity>252</Quantity>
+		<Price>3.36</Price>
+	</Record>
+	<Record>
+		<Name>Racing Socks, L</Name>
+		<Quantity>288</Quantity>
+		<Price>3.36</Price>
+	</Record>
+	<Record>
+		<Name>Mountain Bike Socks, M</Name>
+		<Quantity>180</Quantity>
+		<Price>3.4</Price>
+	</Record>
+	<Record>
+		<Name>Mountain Bike Socks, L</Name>
+		<Quantity>216</Quantity>
+		<Price>3.4</Price>
+	</Record>
+	<Record>
+		<Name>Mountain Bottle Cage</Name>
+		<Quantity>288</Quantity>
+		<Price>3.74</Price>
+	</Record>
+	<Record>
+		<Name>AWC Logo Cap</Name>
+		<Quantity>288</Quantity>
+		<Price>5.23</Price>
+	</Record>
+	<Record>
+		<Name>AWC Logo Cap</Name>
+		<Quantity>288</Quantity>
+		<Price>5.71</Price>
+	</Record>
+	<Record>
+		<Name>Taillights - Battery-Powered</Name>
+		<Quantity>144</Quantity>
+		<Price>5.77</Price>
+	</Record>
+	<Record>
+		<Name>AWC Logo Cap</Name>
+		<Quantity>288</Quantity>
+		<Price>6.92</Price>
+	</Record>
+	<Record>
+		<Name>LL Road Tire</Name>
+		<Quantity>488</Quantity>
+		<Price>8.04</Price>
+	</Record>
+	<Record>
+		<Name>Fender Set - Mountain</Name>
+		<Quantity>108</Quantity>
+		<Price>8.22</Price>
+	</Record>
+	<Record>
+		<Name>Minipump</Name>
+		<Quantity>288</Quantity>
+		<Price>8.25</Price>
+	</Record>
+	<Record>
+		<Name>Chain</Name>
+		<Quantity>589</Quantity>
+		<Price>8.99</Price>
+	</Record>
+	<Record>
+		<Name>Half-Finger Gloves, S</Name>
+		<Quantity>324</Quantity>
+		<Price>9.16</Price>
+	</Record>
+	<Record>
+		<Name>Half-Finger Gloves, M</Name>
+		<Quantity>0</Quantity>
+		<Price>9.16</Price>
+	</Record>
+	<Record>
+		<Name>Half-Finger Gloves, L</Name>
+		<Quantity>36</Quantity>
+		<Price>9.16</Price>
+	</Record>
+	<Record>
+		<Name>LL Mountain Tire</Name>
+		<Quantity>609</Quantity>
+		<Price>9.35</Price>
+	</Record>
+	<Record>
+		<Name>ML Road Tire</Name>
+		<Quantity>574</Quantity>
+		<Price>9.35</Price>
+	</Record>
+	<Record>
+		<Name>Half-Finger Gloves, S</Name>
+		<Quantity>324</Quantity>
+		<Price>9.71</Price>
+	</Record>
+	<Record>
+		<Name>Half-Finger Gloves, M</Name>
+		<Quantity>0</Quantity>
+		<Price>9.71</Price>
+	</Record>
+	<Record>
+		<Name>Half-Finger Gloves, L</Name>
+		<Quantity>36</Quantity>
+		<Price>9.71</Price>
+	</Record>
+	<Record>
+		<Name>Mountain Pump</Name>
+		<Quantity>324</Quantity>
+		<Price>10.31</Price>
+	</Record>
+	<Record>
+		<Name>Cable Lock</Name>
+		<Quantity>252</Quantity>
+		<Price>10.31</Price>
+	</Record>
+	<Record>
+		<Name>Touring Tire</Name>
+		<Quantity>482</Quantity>
+		<Price>10.84</Price>
+	</Record>
+	<Record>
+		<Name>ML Mountain Tire</Name>
+		<Quantity>669</Quantity>
+		<Price>11.22</Price>
+	</Record>
+	<Record>
+		<Name>Sport-100 Helmet, Red</Name>
+		<Quantity>288</Quantity>
+		<Price>12.03</Price>
+	</Record>
+	<Record>
+		<Name>Sport-100 Helmet, Black</Name>
+		<Quantity>324</Quantity>
+		<Price>12.03</Price>
+	</Record>
+	<Record>
+		<Name>Sport-100 Helmet, Blue</Name>
+		<Quantity>216</Quantity>
+		<Price>12.03</Price>
+	</Record>
+	<Record>
+		<Name>LL Mountain Seat/Saddle</Name>
+		<Quantity>809</Quantity>
+		<Price>12.04</Price>
+	</Record>
+	<Record>
+		<Name>LL Road Seat/Saddle</Name>
+		<Quantity>906</Quantity>
+		<Price>12.04</Price>
+	</Record>
+	<Record>
+		<Name>LL Touring Seat/Saddle</Name>
+		<Quantity>801</Quantity>
+		<Price>12.04</Price>
+	</Record>
+	<Record>
+		<Name>HL Road Tire</Name>
+		<Quantity>527</Quantity>
+		<Price>12.19</Price>
+	</Record>
+	<Record>
+		<Name>Sport-100 Helmet, Red</Name>
+		<Quantity>288</Quantity>
+		<Price>13.09</Price>
+	</Record>
+	<Record>
+		<Name>Sport-100 Helmet, Black</Name>
+		<Quantity>324</Quantity>
+		<Price>13.09</Price>
+	</Record>
+	<Record>
+		<Name>Sport-100 Helmet, Blue</Name>
+		<Quantity>216</Quantity>
+		<Price>13.09</Price>
+	</Record>
+	<Record>
+		<Name>HL Mountain Tire</Name>
+		<Quantity>499</Quantity>
+		<Price>13.09</Price>
+	</Record>
+	<Record>
+		<Name>Sport-100 Helmet, Red</Name>
+		<Quantity>288</Quantity>
+		<Price>13.88</Price>
+	</Record>
+	<Record>
+		<Name>Sport-100 Helmet, Black</Name>
+		<Quantity>324</Quantity>
+		<Price>13.88</Price>
+	</Record>
+	<Record>
+		<Name>Sport-100 Helmet, Blue</Name>
+		<Quantity>216</Quantity>
+		<Price>13.88</Price>
+	</Record>
+	<Record>
+		<Name>Headlights - Dual-Beam</Name>
+		<Quantity>180</Quantity>
+		<Price>14.43</Price>
+	</Record>
+	<Record>
+		<Name>LL Headset</Name>
+		<Quantity>761</Quantity>
+		<Price>15.18</Price>
+	</Record>
+	<Record>
+		<Name>Full-Finger Gloves, S</Name>
+		<Quantity>72</Quantity>
+		<Price>15.67</Price>
+	</Record>
+	<Record>
+		<Name>Full-Finger Gloves, M</Name>
+		<Quantity>108</Quantity>
+		<Price>15.67</Price>
+	</Record>
+	<Record>
+		<Name>Full-Finger Gloves, L</Name>
+		<Quantity>144</Quantity>
+		<Price>15.67</Price>
+	</Record>
+	<Record>
+		<Name>ML Mountain Seat/Saddle</Name>
+		<Quantity>422</Quantity>
+		<Price>17.38</Price>
+	</Record>
+	<Record>
+		<Name>ML Road Seat/Saddle</Name>
+		<Quantity>901</Quantity>
+		<Price>17.38</Price>
+	</Record>
+	<Record>
+		<Name>ML Touring Seat/Saddle</Name>
+		<Quantity>402</Quantity>
+		<Price>17.38</Price>
+	</Record>
+	<Record>
+		<Name>LL Mountain Pedal</Name>
+		<Quantity>512</Quantity>
+		<Price>17.98</Price>
+	</Record>
+	<Record>
+		<Name>LL Road Pedal</Name>
+		<Quantity>498</Quantity>
+		<Price>17.98</Price>
+	</Record>
+	<Record>
+		<Name>LL Mountain Handlebars</Name>
+		<Quantity>859</Quantity>
+		<Price>17.98</Price>
+	</Record>
+	<Record>
+		<Name>LL Road Handlebars</Name>
+		<Quantity>831</Quantity>
+		<Price>17.98</Price>
+	</Record>
+	<Record>
+		<Name>Headlights - Weatherproof</Name>
+		<Quantity>216</Quantity>
+		<Price>18.56</Price>
+	</Record>
+	<Record>
+		<Name>LL Mountain Handlebars</Name>
+		<Quantity>859</Quantity>
+		<Price>19.78</Price>
+	</Record>
+	<Record>
+		<Name>LL Road Handlebars</Name>
+		<Quantity>831</Quantity>
+		<Price>19.78</Price>
+	</Record>
+	<Record>
+		<Name>LL Touring Handlebars</Name>
+		<Quantity>802</Quantity>
+		<Price>20.46</Price>
+	</Record>
+	<Record>
+		<Name>Hydration Pack - 70 oz.</Name>
+		<Quantity>108</Quantity>
+		<Price>20.57</Price>
+	</Record>
+	<Record>
+		<Name>HL Mountain Seat/Saddle</Name>
+		<Quantity>355</Quantity>
+		<Price>23.37</Price>
+	</Record>
+	<Record>
+		<Name>HL Road Seat/Saddle</Name>
+		<Quantity>467</Quantity>
+		<Price>23.37</Price>
+	</Record>
+	<Record>
+		<Name>HL Touring Seat/Saddle</Name>
+		<Quantity>989</Quantity>
+		<Price>23.37</Price>
+	</Record>
+	<Record>
+		<Name>Classic Vest, S</Name>
+		<Quantity>180</Quantity>
+		<Price>23.75</Price>
+	</Record>
+	<Record>
+		<Name>Classic Vest, M</Name>
+		<Quantity>216</Quantity>
+		<Price>23.75</Price>
+	</Record>
+	<Record>
+		<Name>Classic Vest, L</Name>
+		<Quantity>252</Quantity>
+		<Price>23.75</Price>
+	</Record>
+	<Record>
+		<Name>LL Bottom Bracket</Name>
+		<Quantity>814</Quantity>
+		<Price>23.97</Price>
+	</Record>
+	<Record>
+		<Name>Men s Sports Shorts, S</Name>
+		<Quantity>288</Quantity>
+		<Price>24.75</Price>
+	</Record>
+	<Record>
+		<Name>Men s Sports Shorts, M</Name>
+		<Quantity>108</Quantity>
+		<Price>24.75</Price>
+	</Record>
+	<Record>
+		<Name>Men s Sports Shorts, L</Name>
+		<Quantity>144</Quantity>
+		<Price>24.75</Price>
+	</Record>
+	<Record>
+		<Name>Men s Sports Shorts, XL</Name>
+		<Quantity>180</Quantity>
+		<Price>24.75</Price>
+	</Record>
+	<Record>
+		<Name>ML Mountain Handlebars</Name>
+		<Quantity>850</Quantity>
+		<Price>24.99</Price>
+	</Record>
+	<Record>
+		<Name>ML Road Handlebars</Name>
+		<Quantity>822</Quantity>
+		<Price>24.99</Price>
+	</Record>
+	<Record>
+		<Name>Women s Mountain Shorts, S</Name>
+		<Quantity>216</Quantity>
+		<Price>26.18</Price>
+	</Record>
+	<Record>
+		<Name>Women s Mountain Shorts, M</Name>
+		<Quantity>252</Quantity>
+		<Price>26.18</Price>
+	</Record>
+	<Record>
+		<Name>Women s Mountain Shorts, L</Name>
+		<Quantity>288</Quantity>
+		<Price>26.18</Price>
+	</Record>
+	<Record>
+		<Name>LL Mountain Front Wheel</Name>
+		<Quantity>722</Quantity>
+		<Price>26.97</Price>
+	</Record>
+	<Record>
+		<Name>ML Mountain Handlebars</Name>
+		<Quantity>850</Quantity>
+		<Price>27.49</Price>
+	</Record>
+	<Record>
+		<Name>ML Road Handlebars</Name>
+		<Quantity>822</Quantity>
+		<Price>27.49</Price>
+	</Record>
+	<Record>
+		<Name>ML Mountain Pedal</Name>
+		<Quantity>507</Quantity>
+		<Price>27.57</Price>
+	</Record>
+	<Record>
+		<Name>ML Road Pedal</Name>
+		<Quantity>494</Quantity>
+		<Price>27.57</Price>
+	</Record>
+	<Record>
+		<Name>Long-Sleeve Logo Jersey, S</Name>
+		<Quantity>144</Quantity>
+		<Price>29.08</Price>
+	</Record>
+	<Record>
+		<Name>Long-Sleeve Logo Jersey, M</Name>
+		<Quantity>180</Quantity>
+		<Price>29.08</Price>
+	</Record>
+	<Record>
+		<Name>Long-Sleeve Logo Jersey, L</Name>
+		<Quantity>216</Quantity>
+		<Price>29.08</Price>
+	</Record>
+	<Record>
+		<Name>Long-Sleeve Logo Jersey, XL</Name>
+		<Quantity>252</Quantity>
+		<Price>29.08</Price>
+	</Record>
+	<Record>
+		<Name>Women s Tights, S</Name>
+		<Quantity>324</Quantity>
+		<Price>30.93</Price>
+	</Record>
+	<Record>
+		<Name>Women s Tights, M</Name>
+		<Quantity>0</Quantity>
+		<Price>30.93</Price>
+	</Record>
+	<Record>
+		<Name>Women s Tights, L</Name>
+		<Quantity>36</Quantity>
+		<Price>30.93</Price>
+	</Record>
+	<Record>
+		<Name>Long-Sleeve Logo Jersey, S</Name>
+		<Quantity>144</Quantity>
+		<Price>31.72</Price>
+	</Record>
+	<Record>
+		<Name>Long-Sleeve Logo Jersey, M</Name>
+		<Quantity>180</Quantity>
+		<Price>31.72</Price>
+	</Record>
+	<Record>
+		<Name>Long-Sleeve Logo Jersey, L</Name>
+		<Quantity>216</Quantity>
+		<Price>31.72</Price>
+	</Record>
+	<Record>
+		<Name>Long-Sleeve Logo Jersey, XL</Name>
+		<Quantity>252</Quantity>
+		<Price>31.72</Price>
+	</Record>
+	<Record>
+		<Name>HL Mountain Pedal</Name>
+		<Quantity>503</Quantity>
+		<Price>35.96</Price>
+	</Record>
+	<Record>
+		<Name>HL Road Pedal</Name>
+		<Quantity>906</Quantity>
+		<Price>35.96</Price>
+	</Record>
+	<Record>
+		<Name>Touring Pedal</Name>
+		<Quantity>885</Quantity>
+		<Price>35.96</Price>
+	</Record>
+	<Record>
+		<Name>Men s Bib-Shorts, S</Name>
+		<Quantity>72</Quantity>
+		<Price>37.12</Price>
+	</Record>
+	<Record>
+		<Name>Men s Bib-Shorts, M</Name>
+		<Quantity>108</Quantity>
+		<Price>37.12</Price>
+	</Record>
+	<Record>
+		<Name>Men s Bib-Shorts, L</Name>
+		<Quantity>144</Quantity>
+		<Price>37.12</Price>
+	</Record>
+	<Record>
+		<Name>LL Road Front Wheel</Name>
+		<Quantity>888</Quantity>
+		<Price>37.99</Price>
+	</Record>
+	<Record>
+		<Name>Long-Sleeve Logo Jersey, S</Name>
+		<Quantity>144</Quantity>
+		<Price>38.49</Price>
+	</Record>
+	<Record>
+		<Name>Long-Sleeve Logo Jersey, M</Name>
+		<Quantity>180</Quantity>
+		<Price>38.49</Price>
+	</Record>
+	<Record>
+		<Name>Long-Sleeve Logo Jersey, L</Name>
+		<Quantity>216</Quantity>
+		<Price>38.49</Price>
+	</Record>
+	<Record>
+		<Name>Long-Sleeve Logo Jersey, XL</Name>
+		<Quantity>252</Quantity>
+		<Price>38.49</Price>
+	</Record>
+	<Record>
+		<Name>LL Mountain Rear Wheel</Name>
+		<Quantity>681</Quantity>
+		<Price>38.96</Price>
+	</Record>
+	<Record>
+		<Name>Front Derailleur</Name>
+		<Quantity>853</Quantity>
+		<Price>40.62</Price>
+	</Record>
+	<Record>
+		<Name>HL Touring Handlebars</Name>
+		<Quantity>792</Quantity>
+		<Price>40.66</Price>
+	</Record>
+	<Record>
+		<Name>Short-Sleeve Classic Jersey, S</Name>
+		<Quantity>324</Quantity>
+		<Price>41.57</Price>
+	</Record>
+	<Record>
+		<Name>Short-Sleeve Classic Jersey, M</Name>
+		<Quantity>0</Quantity>
+		<Price>41.57</Price>
+	</Record>
+	<Record>
+		<Name>Short-Sleeve Classic Jersey, L</Name>
+		<Quantity>36</Quantity>
+		<Price>41.57</Price>
+	</Record>
+	<Record>
+		<Name>Short-Sleeve Classic Jersey, XL</Name>
+		<Quantity>72</Quantity>
+		<Price>41.57</Price>
+	</Record>
+	<Record>
+		<Name>Hitch Rack - 4-Bike</Name>
+		<Quantity>0</Quantity>
+		<Price>44.88</Price>
+	</Record>
+	<Record>
+		<Name>ML Bottom Bracket</Name>
+		<Quantity>816</Quantity>
+		<Price>44.95</Price>
+	</Record>
+	<Record>
+		<Name>ML Headset</Name>
+		<Quantity>772</Quantity>
+		<Price>45.42</Price>
+	</Record>
+	<Record>
+		<Name>Rear Brakes</Name>
+		<Quantity>723</Quantity>
+		<Price>47.29</Price>
+	</Record>
+	<Record>
+		<Name>Front Brakes</Name>
+		<Quantity>767</Quantity>
+		<Price>47.29</Price>
+	</Record>
+	<Record>
+		<Name>HL Mountain Handlebars</Name>
+		<Quantity>840</Quantity>
+		<Price>48.55</Price>
+	</Record>
+	<Record>
+		<Name>HL Road Handlebars</Name>
+		<Quantity>811</Quantity>
+		<Price>48.55</Price>
+	</Record>
+	<Record>
+		<Name>LL Road Rear Wheel</Name>
+		<Quantity>799</Quantity>
+		<Price>49.98</Price>
+	</Record>
+	<Record>
+		<Name>Touring-Panniers, Large</Name>
+		<Quantity>72</Quantity>
+		<Price>51.56</Price>
+	</Record>
+	<Record>
+		<Name>HL Mountain Handlebars</Name>
+		<Quantity>840</Quantity>
+		<Price>53.4</Price>
+	</Record>
+	<Record>
+		<Name>HL Road Handlebars</Name>
+		<Quantity>811</Quantity>
+		<Price>53.4</Price>
+	</Record>
+	<Record>
+		<Name>Rear Derailleur</Name>
+		<Quantity>847</Quantity>
+		<Price>53.93</Price>
+	</Record>
+	<Record>
+		<Name>HL Bottom Bracket</Name>
+		<Quantity>970</Quantity>
+		<Price>53.94</Price>
+	</Record>
+	<Record>
+		<Name>HL Headset</Name>
+		<Quantity>782</Quantity>
+		<Price>55.38</Price>
+	</Record>
+	<Record>
+		<Name>All-Purpose Bike Stand</Name>
+		<Quantity>144</Quantity>
+		<Price>59.47</Price>
+	</Record>
+	<Record>
+		<Name>LL Fork</Name>
+		<Quantity>863</Quantity>
+		<Price>65.81</Price>
+	</Record>
+	<Record>
+		<Name>ML Fork</Name>
+		<Quantity>882</Quantity>
+		<Price>77.92</Price>
+	</Record>
+	<Record>
+		<Name>LL Crankset</Name>
+		<Quantity>885</Quantity>
+		<Price>77.92</Price>
+	</Record>
+	<Record>
+		<Name>ML Mountain Front Wheel</Name>
+		<Quantity>818</Quantity>
+		<Price>92.81</Price>
+	</Record>
+	<Record>
+		<Name>Touring Front Wheel</Name>
+		<Quantity>736</Quantity>
+		<Price>96.8</Price>
+	</Record>
+	<Record>
+		<Name>HL Fork</Name>
+		<Quantity>901</Quantity>
+		<Price>101.89</Price>
+	</Record>
+	<Record>
+		<Name>ML Mountain Rear Wheel</Name>
+		<Quantity>812</Quantity>
+		<Price>104.8</Price>
+	</Record>
+	<Record>
+		<Name>Touring Rear Wheel</Name>
+		<Quantity>741</Quantity>
+		<Price>108.78</Price>
+	</Record>
+	<Record>
+		<Name>ML Road Front Wheel</Name>
+		<Quantity>793</Quantity>
+		<Price>110.28</Price>
+	</Record>
+	<Record>
+		<Name>ML Crankset</Name>
+		<Quantity>905</Quantity>
+		<Price>113.88</Price>
+	</Record>
+	<Record>
+		<Name>ML Road Rear Wheel</Name>
+		<Quantity>837</Quantity>
+		<Price>122.27</Price>
+	</Record>
+	<Record>
+		<Name>HL Mountain Front Wheel</Name>
+		<Quantity>831</Quantity>
+		<Price>133.3</Price>
+	</Record>
+	<Record>
+		<Name>LL Mountain Frame - Black, 40</Name>
+		<Quantity>719</Quantity>
+		<Price>136.79</Price>
+	</Record>
+	<Record>
+		<Name>LL Mountain Frame - Silver, 40</Name>
+		<Quantity>682</Quantity>
+		<Price>144.59</Price>
+	</Record>
+	<Record>
+		<Name>HL Mountain Rear Wheel</Name>
+		<Quantity>783</Quantity>
+		<Price>145.28</Price>
+	</Record>
+	<Record>
+		<Name>HL Road Front Wheel</Name>
+		<Quantity>678</Quantity>
+		<Price>146.55</Price>
+	</Record>
+	<Record>
+		<Name>HL Road Rear Wheel</Name>
+		<Quantity>716</Quantity>
+		<Price>158.53</Price>
+	</Record>
+	<Record>
+		<Name>HL Crankset</Name>
+		<Quantity>923</Quantity>
+		<Price>179.82</Price>
+	</Record>
+	<Record>
+		<Name>ML Mountain Frame - Black, 38</Name>
+		<Quantity>767</Quantity>
+		<Price>185.82</Price>
+	</Record>
+	<Record>
+		<Name>ML Mountain Frame-W - Silver, 38</Name>
+		<Quantity>826</Quantity>
+		<Price>199.38</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-500 Black, 40</Name>
+		<Quantity>150</Quantity>
+		<Price>294.58</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-500 Black, 42</Name>
+		<Quantity>153</Quantity>
+		<Price>294.58</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-500 Black, 44</Name>
+		<Quantity>154</Quantity>
+		<Price>294.58</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-500 Black, 48</Name>
+		<Quantity>164</Quantity>
+		<Price>294.58</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-500 Black, 52</Name>
+		<Quantity>153</Quantity>
+		<Price>294.58</Price>
+	</Record>
+	<Record>
+		<Name>ML Road Frame-W - Yellow, 38</Name>
+		<Quantity>796</Quantity>
+		<Price>300.12</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-500 Silver, 40</Name>
+		<Quantity>154</Quantity>
+		<Price>308.22</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-500 Silver, 42</Name>
+		<Quantity>164</Quantity>
+		<Price>308.22</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-500 Silver, 44</Name>
+		<Quantity>153</Quantity>
+		<Price>308.22</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-500 Silver, 48</Name>
+		<Quantity>155</Quantity>
+		<Price>308.22</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-500 Silver, 52</Name>
+		<Quantity>194</Quantity>
+		<Price>308.22</Price>
+	</Record>
+	<Record>
+		<Name>Road-750 Black, 58</Name>
+		<Quantity>153</Quantity>
+		<Price>343.65</Price>
+	</Record>
+	<Record>
+		<Name>Road-750 Black, 44</Name>
+		<Quantity>153</Quantity>
+		<Price>343.65</Price>
+	</Record>
+	<Record>
+		<Name>Road-750 Black, 48</Name>
+		<Quantity>155</Quantity>
+		<Price>343.65</Price>
+	</Record>
+	<Record>
+		<Name>Road-750 Black, 52</Name>
+		<Quantity>194</Quantity>
+		<Price>343.65</Price>
+	</Record>
+	<Record>
+		<Name>ML Road Frame-W - Yellow, 38</Name>
+		<Quantity>796</Quantity>
+		<Price>360.94</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Red, 58</Name>
+		<Quantity>163</Quantity>
+		<Price>413.15</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Red, 60</Name>
+		<Quantity>185</Quantity>
+		<Price>413.15</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Red, 62</Name>
+		<Quantity>148</Quantity>
+		<Price>413.15</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Red, 44</Name>
+		<Quantity>137</Quantity>
+		<Price>413.15</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Red, 48</Name>
+		<Quantity>223</Quantity>
+		<Price>413.15</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Red, 52</Name>
+		<Quantity>140</Quantity>
+		<Price>413.15</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Black, 58</Name>
+		<Quantity>134</Quantity>
+		<Price>413.15</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Black, 60</Name>
+		<Quantity>165</Quantity>
+		<Price>413.15</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Black, 62</Name>
+		<Quantity>188</Quantity>
+		<Price>413.15</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Black, 44</Name>
+		<Quantity>148</Quantity>
+		<Price>413.15</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Black, 48</Name>
+		<Quantity>133</Quantity>
+		<Price>413.15</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Black, 52</Name>
+		<Quantity>227</Quantity>
+		<Price>413.15</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-400-W Silver, 38</Name>
+		<Quantity>150</Quantity>
+		<Price>419.78</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-400-W Silver, 40</Name>
+		<Quantity>153</Quantity>
+		<Price>419.78</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-400-W Silver, 42</Name>
+		<Quantity>154</Quantity>
+		<Price>419.78</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-400-W Silver, 46</Name>
+		<Quantity>164</Quantity>
+		<Price>419.78</Price>
+	</Record>
+	<Record>
+		<Name>Touring-3000 Blue, 54</Name>
+		<Quantity>163</Quantity>
+		<Price>461.44</Price>
+	</Record>
+	<Record>
+		<Name>Touring-3000 Blue, 58</Name>
+		<Quantity>204</Quantity>
+		<Price>461.44</Price>
+	</Record>
+	<Record>
+		<Name>Touring-3000 Blue, 62</Name>
+		<Quantity>159</Quantity>
+		<Price>461.44</Price>
+	</Record>
+	<Record>
+		<Name>Touring-3000 Yellow, 44</Name>
+		<Quantity>168</Quantity>
+		<Price>461.44</Price>
+	</Record>
+	<Record>
+		<Name>Touring-3000 Yellow, 50</Name>
+		<Quantity>174</Quantity>
+		<Price>461.44</Price>
+	</Record>
+	<Record>
+		<Name>Touring-3000 Yellow, 54</Name>
+		<Quantity>162</Quantity>
+		<Price>461.44</Price>
+	</Record>
+	<Record>
+		<Name>Touring-3000 Yellow, 58</Name>
+		<Quantity>197</Quantity>
+		<Price>461.44</Price>
+	</Record>
+	<Record>
+		<Name>Touring-3000 Yellow, 62</Name>
+		<Quantity>163</Quantity>
+		<Price>461.44</Price>
+	</Record>
+	<Record>
+		<Name>Touring-3000 Blue, 44</Name>
+		<Quantity>163</Quantity>
+		<Price>461.44</Price>
+	</Record>
+	<Record>
+		<Name>Touring-3000 Blue, 50</Name>
+		<Quantity>164</Quantity>
+		<Price>461.44</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Red, 58</Name>
+		<Quantity>163</Quantity>
+		<Price>486.71</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Red, 60</Name>
+		<Quantity>185</Quantity>
+		<Price>486.71</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Red, 62</Name>
+		<Quantity>148</Quantity>
+		<Price>486.71</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Red, 44</Name>
+		<Quantity>137</Quantity>
+		<Price>486.71</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Red, 48</Name>
+		<Quantity>223</Quantity>
+		<Price>486.71</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Red, 52</Name>
+		<Quantity>140</Quantity>
+		<Price>486.71</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Black, 58</Name>
+		<Quantity>134</Quantity>
+		<Price>486.71</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Black, 60</Name>
+		<Quantity>165</Quantity>
+		<Price>486.71</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Black, 62</Name>
+		<Quantity>188</Quantity>
+		<Price>486.71</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Black, 44</Name>
+		<Quantity>148</Quantity>
+		<Price>486.71</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Black, 48</Name>
+		<Quantity>133</Quantity>
+		<Price>486.71</Price>
+	</Record>
+	<Record>
+		<Name>Road-650 Black, 52</Name>
+		<Quantity>227</Quantity>
+		<Price>486.71</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-300 Black, 38</Name>
+		<Quantity>137</Quantity>
+		<Price>598.44</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-300 Black, 40</Name>
+		<Quantity>223</Quantity>
+		<Price>598.44</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-300 Black, 44</Name>
+		<Quantity>140</Quantity>
+		<Price>598.44</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-300 Black, 48</Name>
+		<Quantity>128</Quantity>
+		<Price>598.44</Price>
+	</Record>
+	<Record>
+		<Name>Road-550-W Yellow, 38</Name>
+		<Quantity>148</Quantity>
+		<Price>605.65</Price>
+	</Record>
+	<Record>
+		<Name>Road-550-W Yellow, 40</Name>
+		<Quantity>133</Quantity>
+		<Price>605.65</Price>
+	</Record>
+	<Record>
+		<Name>Road-550-W Yellow, 42</Name>
+		<Quantity>227</Quantity>
+		<Price>605.65</Price>
+	</Record>
+	<Record>
+		<Name>Road-550-W Yellow, 44</Name>
+		<Quantity>129</Quantity>
+		<Price>605.65</Price>
+	</Record>
+	<Record>
+		<Name>Road-550-W Yellow, 48</Name>
+		<Quantity>134</Quantity>
+		<Price>605.65</Price>
+	</Record>
+	<Record>
+		<Name>HL Mountain Frame - Black, 38</Name>
+		<Quantity>834</Quantity>
+		<Price>617.03</Price>
+	</Record>
+	<Record>
+		<Name>HL Mountain Frame - Silver, 38</Name>
+		<Quantity>738</Quantity>
+		<Price>623.84</Price>
+	</Record>
+	<Record>
+		<Name>HL Mountain Frame - Black, 38</Name>
+		<Quantity>834</Quantity>
+		<Price>653.7</Price>
+	</Record>
+	<Record>
+		<Name>HL Mountain Frame - Silver, 38</Name>
+		<Quantity>738</Quantity>
+		<Price>660.91</Price>
+	</Record>
+	<Record>
+		<Name>Road-550-W Yellow, 38</Name>
+		<Quantity>148</Quantity>
+		<Price>713.08</Price>
+	</Record>
+	<Record>
+		<Name>Road-550-W Yellow, 40</Name>
+		<Quantity>133</Quantity>
+		<Price>713.08</Price>
+	</Record>
+	<Record>
+		<Name>Road-550-W Yellow, 42</Name>
+		<Quantity>227</Quantity>
+		<Price>713.08</Price>
+	</Record>
+	<Record>
+		<Name>Road-550-W Yellow, 44</Name>
+		<Quantity>129</Quantity>
+		<Price>713.08</Price>
+	</Record>
+	<Record>
+		<Name>Road-550-W Yellow, 48</Name>
+		<Quantity>134</Quantity>
+		<Price>713.08</Price>
+	</Record>
+	<Record>
+		<Name>HL Mountain Frame - Black, 38</Name>
+		<Quantity>834</Quantity>
+		<Price>739.04</Price>
+	</Record>
+	<Record>
+		<Name>HL Mountain Frame - Silver, 38</Name>
+		<Quantity>738</Quantity>
+		<Price>747.2</Price>
+	</Record>
+	<Record>
+		<Name>Touring-2000 Blue, 60</Name>
+		<Quantity>165</Quantity>
+		<Price>755.15</Price>
+	</Record>
+	<Record>
+		<Name>Touring-2000 Blue, 46</Name>
+		<Quantity>133</Quantity>
+		<Price>755.15</Price>
+	</Record>
+	<Record>
+		<Name>Touring-2000 Blue, 50</Name>
+		<Quantity>227</Quantity>
+		<Price>755.15</Price>
+	</Record>
+	<Record>
+		<Name>Touring-2000 Blue, 54</Name>
+		<Quantity>129</Quantity>
+		<Price>755.15</Price>
+	</Record>
+	<Record>
+		<Name>Road-450 Red, 58</Name>
+		<Quantity>148</Quantity>
+		<Price>884.71</Price>
+	</Record>
+	<Record>
+		<Name>Road-450 Red, 60</Name>
+		<Quantity>137</Quantity>
+		<Price>884.71</Price>
+	</Record>
+	<Record>
+		<Name>Road-450 Red, 44</Name>
+		<Quantity>129</Quantity>
+		<Price>884.71</Price>
+	</Record>
+	<Record>
+		<Name>Road-450 Red, 48</Name>
+		<Quantity>134</Quantity>
+		<Price>884.71</Price>
+	</Record>
+	<Record>
+		<Name>Road-450 Red, 52</Name>
+		<Quantity>165</Quantity>
+		<Price>884.71</Price>
+	</Record>
+	<Record>
+		<Name>Road-350-W Yellow, 40</Name>
+		<Quantity>185</Quantity>
+		<Price>1082.51</Price>
+	</Record>
+	<Record>
+		<Name>Road-350-W Yellow, 42</Name>
+		<Quantity>148</Quantity>
+		<Price>1082.51</Price>
+	</Record>
+	<Record>
+		<Name>Road-350-W Yellow, 44</Name>
+		<Quantity>133</Quantity>
+		<Price>1082.51</Price>
+	</Record>
+	<Record>
+		<Name>Road-350-W Yellow, 48</Name>
+		<Quantity>227</Quantity>
+		<Price>1082.51</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-200 Black, 38</Name>
+		<Quantity>188</Quantity>
+		<Price>1105.81</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-200 Black, 42</Name>
+		<Quantity>148</Quantity>
+		<Price>1105.81</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-200 Black, 46</Name>
+		<Quantity>137</Quantity>
+		<Price>1105.81</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-200 Silver, 38</Name>
+		<Quantity>137</Quantity>
+		<Price>1117.86</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-200 Silver, 42</Name>
+		<Quantity>223</Quantity>
+		<Price>1117.86</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-200 Silver, 46</Name>
+		<Quantity>140</Quantity>
+		<Price>1117.86</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-200 Black, 38</Name>
+		<Quantity>188</Quantity>
+		<Price>1251.98</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-200 Black, 42</Name>
+		<Quantity>148</Quantity>
+		<Price>1251.98</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-200 Black, 46</Name>
+		<Quantity>137</Quantity>
+		<Price>1251.98</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-200 Silver, 38</Name>
+		<Quantity>137</Quantity>
+		<Price>1265.62</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-200 Silver, 42</Name>
+		<Quantity>223</Quantity>
+		<Price>1265.62</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-200 Silver, 46</Name>
+		<Quantity>140</Quantity>
+		<Price>1265.62</Price>
+	</Record>
+	<Record>
+		<Name>Road-250 Red, 58</Name>
+		<Quantity>227</Quantity>
+		<Price>1320.68</Price>
+	</Record>
+	<Record>
+		<Name>Road-250 Black, 44</Name>
+		<Quantity>134</Quantity>
+		<Price>1320.68</Price>
+	</Record>
+	<Record>
+		<Name>Road-250 Black, 48</Name>
+		<Quantity>165</Quantity>
+		<Price>1320.68</Price>
+	</Record>
+	<Record>
+		<Name>Road-250 Black, 52</Name>
+		<Quantity>188</Quantity>
+		<Price>1320.68</Price>
+	</Record>
+	<Record>
+		<Name>Road-250 Black, 58</Name>
+		<Quantity>148</Quantity>
+		<Price>1320.68</Price>
+	</Record>
+	<Record>
+		<Name>Touring-1000 Yellow, 46</Name>
+		<Quantity>148</Quantity>
+		<Price>1481.94</Price>
+	</Record>
+	<Record>
+		<Name>Touring-1000 Yellow, 50</Name>
+		<Quantity>137</Quantity>
+		<Price>1481.94</Price>
+	</Record>
+	<Record>
+		<Name>Touring-1000 Yellow, 54</Name>
+		<Quantity>75</Quantity>
+		<Price>1481.94</Price>
+	</Record>
+	<Record>
+		<Name>Touring-1000 Yellow, 60</Name>
+		<Quantity>151</Quantity>
+		<Price>1481.94</Price>
+	</Record>
+	<Record>
+		<Name>Touring-1000 Blue, 46</Name>
+		<Quantity>185</Quantity>
+		<Price>1481.94</Price>
+	</Record>
+	<Record>
+		<Name>Touring-1000 Blue, 50</Name>
+		<Quantity>148</Quantity>
+		<Price>1481.94</Price>
+	</Record>
+	<Record>
+		<Name>Touring-1000 Blue, 54</Name>
+		<Quantity>133</Quantity>
+		<Price>1481.94</Price>
+	</Record>
+	<Record>
+		<Name>Touring-1000 Blue, 60</Name>
+		<Quantity>129</Quantity>
+		<Price>1481.94</Price>
+	</Record>
+	<Record>
+		<Name>Road-250 Red, 44</Name>
+		<Quantity>163</Quantity>
+		<Price>1518.79</Price>
+	</Record>
+	<Record>
+		<Name>Road-250 Red, 48</Name>
+		<Quantity>185</Quantity>
+		<Price>1518.79</Price>
+	</Record>
+	<Record>
+		<Name>Road-250 Red, 52</Name>
+		<Quantity>148</Quantity>
+		<Price>1518.79</Price>
+	</Record>
+	<Record>
+		<Name>Road-250 Red, 58</Name>
+		<Quantity>227</Quantity>
+		<Price>1554.95</Price>
+	</Record>
+	<Record>
+		<Name>Road-250 Black, 44</Name>
+		<Quantity>134</Quantity>
+		<Price>1554.95</Price>
+	</Record>
+	<Record>
+		<Name>Road-250 Black, 48</Name>
+		<Quantity>165</Quantity>
+		<Price>1554.95</Price>
+	</Record>
+	<Record>
+		<Name>Road-250 Black, 52</Name>
+		<Quantity>188</Quantity>
+		<Price>1554.95</Price>
+	</Record>
+	<Record>
+		<Name>Road-250 Black, 58</Name>
+		<Quantity>148</Quantity>
+		<Price>1554.95</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-100 Black, 38</Name>
+		<Quantity>155</Quantity>
+		<Price>1898.09</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-100 Black, 42</Name>
+		<Quantity>194</Quantity>
+		<Price>1898.09</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-100 Black, 44</Name>
+		<Quantity>149</Quantity>
+		<Price>1898.09</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-100 Black, 48</Name>
+		<Quantity>153</Quantity>
+		<Price>1898.09</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-100 Silver, 38</Name>
+		<Quantity>149</Quantity>
+		<Price>1912.15</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-100 Silver, 42</Name>
+		<Quantity>153</Quantity>
+		<Price>1912.15</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-100 Silver, 44</Name>
+		<Quantity>158</Quantity>
+		<Price>1912.15</Price>
+	</Record>
+	<Record>
+		<Name>Mountain-100 Silver, 48</Name>
+		<Quantity>164</Quantity>
+		<Price>1912.15</Price>
+	</Record>
+	<Record>
+		<Name>Road-150 Red, 62</Name>
+		<Quantity>133</Quantity>
+		<Price>2171.29</Price>
+	</Record>
+	<Record>
+		<Name>Road-150 Red, 44</Name>
+		<Quantity>223</Quantity>
+		<Price>2171.29</Price>
+	</Record>
+	<Record>
+		<Name>Road-150 Red, 48</Name>
+		<Quantity>140</Quantity>
+		<Price>2171.29</Price>
+	</Record>
+	<Record>
+		<Name>Road-150 Red, 52</Name>
+		<Quantity>128</Quantity>
+		<Price>2171.29</Price>
+	</Record>
+	<Record>
+		<Name>Road-150 Red, 56</Name>
+		<Quantity>163</Quantity>
+		<Price>2171.29</Price>
+	</Record>
+</Product>
